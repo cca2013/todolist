@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github/cca2013.git"
+    "url": "git+https://github.com/cca2013.git"
   },
   "bugs": {
-    "url": "https://github.com/github/cca2013/issues"
+    "url": "https://github.com/cca2013/issues"
   },
-  "homepage": "https://github.com/github/cca2013#readme"
+  "homepage": "https://github.com/cca2013#readme"
 }
