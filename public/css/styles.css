@@ -89,7 +89,7 @@ input[type="text"]:focus {
 
 ::placeholder {
   /*(seudo selector used) - targets our placeholder */
-  color: grey;
+  color: black;
   opacity: 1;
 }
 
